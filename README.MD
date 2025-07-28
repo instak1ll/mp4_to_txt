@@ -10,4 +10,4 @@ This Python script allows you to convert the audio from video files in MP4 forma
 #### 8  EXAMPLE: 
 [![example-1.png](https://i.postimg.cc/FzdctLS4/example-1.png)](https://postimg.cc/9w2zZz18)
 #### 9. Place the MP4 video files you want to transcribe inside the `input` folder.
-#### 10. Run the script from your terminal or command prompt.
+#### 10. Run the script from your terminal or command prompt: python app.py
