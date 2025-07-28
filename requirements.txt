@@ -1,3 +1,7 @@
-speechrecognition
-moviepy
-tqdm
+SpeechRecognition==3.10.0
+tqdm==4.66.2
+numpy==1.26.4
+moviepy==1.0.3
+imageio==2.34.0
+imageio-ffmpeg==0.4.9
+pillow==10.3.0
